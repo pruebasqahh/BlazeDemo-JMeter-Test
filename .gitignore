@@ -1,0 +1,11 @@
+# Ignorar resultados y archivos temporales de JMeter
+/results/
+*.jtl
+*.log
+*.tmp
+
+# Archivos del sistema operativo o del entorno de desarrollo
+.DS_Store
+Thumbs.db
+.idea/
+*.iml

@@ -1,0 +1,51 @@
+name,address,city,state,zipcode,cardType,cardNumber,month,year,nameOnCard
+Laura Torres,671 Madero St.,Merida,Puebla,76482,MasterCard,6213676658695460,03,2028,Laura Torres
+Pedro Sanchez,858 Independencia St.,Toluca,Jalisco,79327,MasterCard,4799788299882143,01,2025,Pedro Sanchez
+Ana Morales,598 Hidalgo St.,Monterrey,Jalisco,78465,Visa,0467411797588336,08,2030,Ana Morales
+Pedro Sanchez,756 Allende St.,Chihuahua,Yucatan,48848,Visa,2316364548498642,03,2025,Pedro Sanchez
+Laura Lopez,105 Allende St.,Cancun,Yucatan,26985,Visa,6566820431167910,03,2027,Laura Lopez
+Lucia Ramirez,908 Hidalgo St.,Leon,Baja California,17130,MasterCard,2356743261542886,12,2030,Lucia Ramirez
+Ana Sanchez,436 Zaragoza St.,Puebla,Chihuahua,58194,MasterCard,8931246839583035,10,2028,Ana Sanchez
+Andres Castro,919 Morelos St.,CDMX,Guanajuato,51628,Visa,7821588509007229,09,2030,Andres Castro
+Lucia Torres,612 Main St.,Guadalajara,Baja California,89379,Amex,7559798259520306,04,2029,Lucia Torres
+Lucia Torres,398 Madero St.,Chihuahua,Yucatan,13759,Amex,8156256189702168,07,2029,Lucia Torres
+Lucia Lopez,152 Main St.,Toluca,Chihuahua,71604,Visa,6807527929176805,03,2028,Lucia Lopez
+Jose Perez,402 Independencia St.,Guadalajara,Chihuahua,74245,MasterCard,9480022411717802,04,2025,Jose Perez
+Laura Castro,594 Juarez St.,Tijuana,Baja California,12759,Visa,0407741520147140,02,2026,Laura Castro
+Maria Castro,534 Independencia St.,Cancun,Edo Mex,55704,Visa,8293534383394627,03,2025,Maria Castro
+Claudia Perez,195 Reforma St.,Tijuana,Ciudad de Mexico,47205,MasterCard,7252347839916438,03,2030,Claudia Perez
+Jose Vargas,847 Independencia St.,Tijuana,Baja California,25822,Visa,0007925846411333,05,2025,Jose Vargas
+Jose Gomez,872 Madero St.,Toluca,Puebla,96572,Visa,9341373174194902,05,2029,Jose Gomez
+Ana Castro,329 Main St.,Merida,Edo Mex,53934,MasterCard,2423885200758505,06,2030,Ana Castro
+Carlos Sanchez,545 Allende St.,Toluca,Jalisco,23427,MasterCard,6903545686944212,09,2027,Carlos Sanchez
+Lucia Ramirez,152 Independencia St.,Leon,Ciudad de Mexico,51952,Amex,2828751364982793,10,2027,Lucia Ramirez
+Maria Sanchez,241 Juarez St.,Tijuana,Yucatan,22859,Amex,9874641361546037,04,2030,Maria Sanchez
+Andres Sanchez,149 Reforma St.,Tijuana,Puebla,80885,Amex,7009052319791733,08,2026,Andres Sanchez
+Jose Castro,318 Madero St.,Guadalajara,Jalisco,47447,Amex,1013700542668901,07,2029,Jose Castro
+Luis Gomez,286 Zaragoza St.,Cancun,Yucatan,49501,Amex,1451263703838165,03,2025,Luis Gomez
+Maria Torres,652 Madero St.,CDMX,Nuevo Leon,18449,MasterCard,3399752902809241,09,2028,Maria Torres
+Ana Sanchez,526 Independencia St.,Monterrey,Yucatan,31243,Amex,8594581961008701,03,2025,Ana Sanchez
+Ana Vargas,879 Independencia St.,Cancun,Nuevo Leon,82471,Amex,2923566039613892,08,2028,Ana Vargas
+Carlos Perez,325 Juarez St.,Puebla,Nuevo Leon,83961,Visa,3281776468540406,04,2026,Carlos Perez
+Lucia Castro,806 Juarez St.,Guadalajara,Jalisco,95355,MasterCard,3714429195944300,01,2026,Lucia Castro
+Luis Gomez,638 Morelos St.,Cancun,Quintana Roo,41651,Amex,0007653169811740,06,2027,Luis Gomez
+Luis Sanchez,178 Morelos St.,Puebla,Baja California,31000,Amex,9195859169685598,06,2029,Luis Sanchez
+Lucia Sanchez,299 Morelos St.,CDMX,Jalisco,65146,MasterCard,0073025906347101,07,2026,Lucia Sanchez
+Carlos Vargas,218 Allende St.,Cancun,Puebla,27403,Visa,6267204372958283,04,2027,Carlos Vargas
+Maria Ramirez,586 Zaragoza St.,Guadalajara,Yucatan,71710,Amex,5991842178531092,07,2029,Maria Ramirez
+Andres Perez,624 Madero St.,Chihuahua,Quintana Roo,64427,MasterCard,6849549373873161,07,2027,Andres Perez
+Pedro Gomez,410 Hidalgo St.,Leon,Puebla,27922,MasterCard,2677159234827247,03,2026,Pedro Gomez
+Maria Morales,105 Madero St.,Monterrey,Puebla,53166,MasterCard,2268748508782974,09,2030,Maria Morales
+Maria Vargas,138 Independencia St.,Guadalajara,Puebla,84257,Amex,1722581080012128,02,2030,Maria Vargas
+Maria Ramirez,521 Reforma St.,Merida,Quintana Roo,56385,Visa,2904903111648943,05,2028,Maria Ramirez
+Carlos Lopez,107 Insurgentes St.,Chihuahua,Ciudad de Mexico,88611,Visa,0762623778934050,11,2026,Carlos Lopez
+Maria Torres,465 Reforma St.,Chihuahua,Yucatan,89520,Visa,4942634970019110,04,2029,Maria Torres
+Pedro Sanchez,920 Juarez St.,Guadalajara,Nuevo Leon,28951,Visa,0380779345986790,09,2030,Pedro Sanchez
+Laura Hernandez,371 Madero St.,Guadalajara,Jalisco,59046,Amex,0111437174805021,12,2029,Laura Hernandez
+Carlos Lopez,149 Zaragoza St.,Merida,Guanajuato,10099,Visa,5299356258709714,11,2030,Carlos Lopez
+Lucia Castro,349 Main St.,Tijuana,Jalisco,57725,Amex,4400315671353170,11,2030,Lucia Castro
+Pedro Morales,999 Zaragoza St.,Tijuana,Guanajuato,70096,MasterCard,2023039144929327,12,2030,Pedro Morales
+Claudia Gomez,452 Zaragoza St.,CDMX,Puebla,54397,Visa,7116693170494850,10,2030,Claudia Gomez
+Luis Sanchez,714 Reforma St.,Merida,Ciudad de Mexico,86396,Amex,3168277135066248,04,2030,Luis Sanchez
+Luis Ramirez,603 Insurgentes St.,Monterrey,Chihuahua,36103,Amex,0187726536672720,04,2028,Luis Ramirez
+Claudia Hernandez,361 Morelos St.,Toluca,Jalisco,77969,MasterCard,6792149531744964,03,2030,Claudia Hernandez
